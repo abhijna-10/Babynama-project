@@ -33,7 +33,7 @@ After you've finished coding, please complete the following two steps.
     * **Choices Made:** I chose to implement the webinar cards using React functional components with hooks (useState) for simplicity and easy state management.Used inline styles for quick styling without the need for external CSS, keeping everything in one file.Decided on a toggle button to show/hide details for better user experience without navigating away or cluttering the UI.
     * **Roadblock & Learning:** I initially struggled with typing the webinar prop in the WebinarCard component using TypeScript. I solved this by leveraging TypeScript’s typeof operator on the webinars array to infer the correct type (typeof webinars[0]), ensuring proper type safety without duplicating the interface.
     * **Screenshot:**
-        ![Screenshot](./Screenshot_1063.png)
+        ![Screenshot](./image.png)
 
 
 To submit, please share the link to your finished GitHub repository with us. Good luck!
